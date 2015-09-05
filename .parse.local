@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Bttendance": {
+      "applicationId": "TuqOFVQZRwnf3ATH082gaJt3IHsFMiem08HAcAAp"
+    },
+    "_default": {
+      "link": "Bttendance"
+    }
+  }
+}
